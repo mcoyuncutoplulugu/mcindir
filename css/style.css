@@ -1,5 +1,5 @@
 body {
-    background-image: url('../sgL14zn/Gta-3-T-rk-BG.png');
+    background-image: url('https://static.wixstatic.com/media/bf408d_d354bd2ef64a4b6ba5a0f0b1d51f6a43~mv2.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -9,7 +9,7 @@ body {
 .gtaLogo {
     width: 256px;
     height: 256px;
-    background-image: url('../fq2xTc8/gta-Logo128.png');
+    background-image: url('https://cs1.socpanel.com/cs1/panel_logos/6wW40gz2wFAgRUUUH4LswjNzcoAaEdg1faIpKzSc.png');
     background-size: cover;
 }
 
