@@ -1,0 +1,70 @@
+body {
+    background-image: url('../sgL14zn/Gta-3-T-rk-BG.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-position: center center;
+}
+
+.gtaLogo {
+    width: 256px;
+    height: 256px;
+    background-image: url('../fq2xTc8/gta-Logo128.png');
+    background-size: cover;
+}
+
+.noselect {
+-webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+        -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+
+.btn-orange {
+    color: #fff;
+    background-color: #f8631c;
+    border-color: #f8631c;
+}
+
+.btn-orange:hover {
+    color: #fff;
+    background-color: #a64111;
+    border-color: #993607;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #5865f2;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+    width: 300px;
+    /*height: 100px;*/
+    margin: 0 auto;
+}
+
+.circle {
+    background-color: white;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    background-image: url('../icons/1218844840209678447/2d12d38d715d9a67a19f20234d181d6c.webp'); /* Discord sunucu resmini buraya ekleyin */
+    background-size: cover;
+}
+
+.green-rectangle {
+    background-color: #28A745;
+    border-radius: 10px;
+    width: 70px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.btn.btn-rectangle {
+    border-radius: 10px;
+}
